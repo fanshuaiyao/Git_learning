@@ -74,6 +74,8 @@ git config --global user.email 1345822123@qq.com
 
 ![image-20231211205530644](Git命令.assets/image-20231211205530644.png)
 
+#### 可以用git add . 来添加所有文件
+
 #### 用git log查看历史记录
 
 ![image-20231211205741361](Git命令.assets/image-20231211205741361.png)
@@ -125,6 +127,10 @@ git config --global user.email 1345822123@qq.com
 #### 查看当前有多少个分支 git branch -v
 
 ![image-20231212154738602](Git命令.assets/image-20231212154738602.png)
+
+#### 更改分支名称 git branch -m oldName newName
+
+![image-20231212190647902](Git命令.assets/image-20231212190647902.png)
 
 #### 切换分支使用git checkout user
 
